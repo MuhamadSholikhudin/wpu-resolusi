@@ -1,0 +1,7 @@
+#Proyek Online Shop
+  -Halaman User
+    -Index
+    -Detail
+    -Chart
+    -Check out
+    -Pembayaran
